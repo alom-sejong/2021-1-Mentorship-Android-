@@ -29,15 +29,15 @@
 멘토 이예서 (카톡 이름 : 예서)  
 ### 📌 일정 
 
-* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [4주차 과제: 자바와 객체지향](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [5주차 과제: 안드로이드와 자바 1](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [6주차 과제: 안드로이드와 자바 2](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [7주차 과제: 안드로이드 앱 개발 기초](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [8주자 과제: 안드로이드 앱 개발 심화: Todo-List](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
-* [멘토링 수료 과제: Todo-List 완성하기](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship)
+* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship)
+* [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship)
+* [4주차 과제: 자바와 객체지향](https://github.com/alom-sejong/Alom-Mentorship)
+* [5주차 과제: 안드로이드와 자바 1](https://github.com/alom-sejong/Alom-Mentorship)
+* [6주차 과제: 안드로이드와 자바 2](https://github.com/alom-sejong/Alom-Mentorship)
+* [7주차 과제: 안드로이드 앱 개발 기초](https://github.com/alom-sejong/Alom-Mentorship)
+* [8주자 과제: 안드로이드 앱 개발 심화: Todo-List](https://github.com/alom-sejong/Alom-Mentorship)
+* [멘토링 수료 과제: Todo-List 완성하기](https://github.com/alom-sejong/Alom-Mentorship)
 
 ### 🗓 멘토링 참여 현황
 
