@@ -8,10 +8,10 @@
 
 ### 📚 참고 자료
 * [깃허브 Pull requests(풀리퀘) 하는법](https://chanhuiseok.github.io/posts/git-3/)
-1. **Fork** Alom-Mentorship 저장소에서 오른쪽 Fork 버튼 클릭  
-2. **Clone** [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)  
-3. **Commit&Push** [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
-4. **Pull requests** 본인의 저장소로 가서 Pull requests 버튼 누르고 보내기
+1. **Fork** : Alom-Mentorship 저장소에서 오른쪽 Fork 버튼 클릭  
+2. **Clone** : [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)  
+3. **Commit&Push** : [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
+4. **Pull requests** : 본인의 저장소로 가서 Pull requests 버튼 누르고 보내기
 * [안드로이드 스튜디오 설치방법_영상](https://youtu.be/UNKlX9J6m-A)  
 [안드로이드 스튜디오 설치방법_블로그](https://webnautes.tistory.com/1126)  
 설치 단계는 1. 자바 설치 & 환경변수 설정 2. 스튜디오 설치 & 환경변수 설정 3.SDK 설치 총 3단계로 이루어집니다.  
