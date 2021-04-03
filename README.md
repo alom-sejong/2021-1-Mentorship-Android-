@@ -10,7 +10,7 @@
 * [깃허브 Pull requests(풀리퀘) 하는법]()  
 folk->commit->Pull requests  
 * [안드로이드 스튜디오 설치방법_영상](https://youtu.be/UNKlX9J6m-A)
-* [안드로이드 스튜디오 설치방법_블로그](https://webnautes.tistory.com/1126)
+* [안드로이드 스튜디오 설치방법_블로그](https://webnautes.tistory.com/1126)  
 안드로이드 스튜디오는 크게 1. 자바 설치 & 환경변수 설정 2. 스튜디오 설치 & 환경변수 설정 3.SDK 설치 3단계로 이루어집니다.
 * [안드로이드 스튜디오 한글 경로 때문에 설치 안될 때](https://sohees.com/7126/)  
 컴퓨터 사용자 계정 이름이 한글이라면 SDK 설치시 오류가 발생합니다. 위에 게시글을 참고하여 진행하시면 됩니다.
