@@ -43,7 +43,7 @@
 
 | 참여자 (19) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 👏목표👏 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 고윤서 |||||||||
 | 권영호 |||||||||
 | 김소은 |||||||||
