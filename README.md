@@ -19,23 +19,37 @@ folk->commit->Pull requests
 
 ### 📌 일정 
 
-* [1주차 과제: 안드로이드 스튜디오 설치 및 둘러보기]()
-* [2주차 과제: XML 레이아웃]()
-* [3주차 과제: XML 기본위젯과 속성]()
-* [4주차 과제: XML 드로어블 다루기]()
-* [5주차 과제: JAVA]()
-* [6주차 과제: JAVA]()
-* [7주차 과제: JAVA]()
-* [8주자 과제: JAVA]()
-* [멘토링 수료 과제: 나만의 앱 만들어보기]()
+* [1주차 과제: 안드로이드 프로젝트 알기]()
+* [2주차 과제: 레이아웃과 위젯1]()
+* [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기]()
+* [4주차 과제: 자바와 객체지향]()
+* [5주차 과제: 안드로이드와 자바 1]()
+* [6주차 과제: 안드로이드와 자바 2]()
+* [7주차 과제: 안드로이드 앱 개발 기초]()
+* [8주자 과제: 안드로이드 앱 개발 심화: Todo-List]()
+* [멘토링 수료 과제: Todo-List 완성하기]()
 
 ### 🗓 멘토링 참여 현황
 
-| 참여자 (6) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 참석율 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ALOM |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 세종 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 새롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 다롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
-| 롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:| 100.00% |
+| 참여자 (19) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 아롬 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 고윤서 |||||||||
+| 권영호 |||||||||
+| 김소은 |||||||||
+| 김영현 |||||||||
+| 김예주 |||||||||
+| 김이나 |||||||||
+| 김채원 |||||||||
+| 김한슬 |||||||||
+| 박수연 |||||||||
+| 박창현 |||||||||
+| 송수현 |||||||||
+| 신동준 |||||||||
+| 신애림 |||||||||
+| 안영진 |||||||||
+| 유명건 |||||||||
+| 윤주리 |||||||||
+| 이정은 |||||||||
+| 이지민 |||||||||
+| 정혜성 |||||||||
