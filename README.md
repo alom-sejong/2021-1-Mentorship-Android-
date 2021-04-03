@@ -12,7 +12,7 @@
 2. **Clone** : [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)  
 3. **Commit&Push** : [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
 4. **Pull requests** : 본인의 저장소로 가서 Pull requests 버튼 누르고 보내기
-* [안드로이드 스튜디오 설치방법_영상](https://youtu.be/UNKlX9J6m-A) [안드로이드 스튜디오 설치방법_블로그](https://webnautes.tistory.com/1126)  
+* [안드로이드 스튜디오 설치방법_영상](https://youtu.be/UNKlX9J6m-A) 또는 [안드로이드 스튜디오 설치방법_블로그](https://webnautes.tistory.com/1126)  
 설치 단계는 1. 자바 설치 & 환경변수 설정 2. 스튜디오 설치 & 환경변수 설정 3.SDK 설치 총 3단계로 이루어집니다.  
 * [안드로이드 스튜디오 한글 경로 때문에 설치 안될 때](https://sohees.com/7126/)  
 컴퓨터 사용자 계정 이름이 한글이라면 SDK 설치시 오류가 발생합니다. 위에 게시글을 참고하여 진행하시면 됩니다.  
