@@ -23,21 +23,21 @@
  해결하지 못했더라도 진행과정만큼 제출하시면 됩니다.  
 ### 🔍 질문하기 
 혹시 해당 주차의 내용과 과제가 어렵거나 질문이 있다면 담당 멘토에게 질문해주세요.  
-최대한 답변 도와드리도록 하겠습니다!  
+시간이 되는 대로 최대한 빠르게 답변 도와드리도록 하겠습니다.  
 멘토 변준영 (카톡 이름 : 준영)  
 멘토 이은지 (카톡 이름 : 은지)  
 멘토 이예서 (카톡 이름 : 예서)  
 ### 📌 일정 
 
-* [1주차 과제: 안드로이드 프로젝트 알기]()
-* [2주차 과제: 레이아웃과 위젯1]()
-* [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기]()
-* [4주차 과제: 자바와 객체지향]()
-* [5주차 과제: 안드로이드와 자바 1]()
-* [6주차 과제: 안드로이드와 자바 2]()
-* [7주차 과제: 안드로이드 앱 개발 기초]()
-* [8주자 과제: 안드로이드 앱 개발 심화: Todo-List]()
-* [멘토링 수료 과제: Todo-List 완성하기]()
+* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [4주차 과제: 자바와 객체지향](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [5주차 과제: 안드로이드와 자바 1](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [6주차 과제: 안드로이드와 자바 2](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [7주차 과제: 안드로이드 앱 개발 기초](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [8주자 과제: 안드로이드 앱 개발 심화: Todo-List](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
+* [멘토링 수료 과제: Todo-List 완성하기](https://github.com/alom-sejong/Alom-Mentorship/edit/main/README.md)
 
 ### 🗓 멘토링 참여 현황
 
