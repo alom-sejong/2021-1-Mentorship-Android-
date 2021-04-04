@@ -7,7 +7,7 @@
 ## 안드로이드 기초 멘토링
 
 ### 📚 참고 자료
-* [깃허브 Pull requests(풀리퀘) 하는법](https://chanhuiseok.github.io/posts/git-3/)
+* [깃허브 Pull requests(풀리퀘) 하는법](https://github.com/alom-sejong/Alom-Mentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
 1. **Fork** : Alom-Mentorship 저장소에서 오른쪽 Fork 버튼 클릭  
 2. **Clone** : [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)  
 3. **Commit&Push** : [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
