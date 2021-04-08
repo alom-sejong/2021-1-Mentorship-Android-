@@ -29,7 +29,7 @@
 멘토 이예서 (카톡 이름 : 예서)  
 ### 📌 일정 
 
-* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship)
+* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
 * [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship)
 * [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship)
 * [4주차 과제: 자바와 객체지향](https://github.com/alom-sejong/Alom-Mentorship)
