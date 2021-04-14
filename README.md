@@ -60,6 +60,6 @@
 | 안영진 |:white_check_mark:|||||||||
 | 유명건 ||||||||||
 | 윤주리 |:white_check_mark:|:white_check_mark:||||||||
-| 이정은 ||||||||||
+| 이정은 |:white_check_mark:|||||||||
 | 이지민 |:white_check_mark:|:white_check_mark:||||||||
 | 정혜성 ||||||||||
