@@ -1,0 +1,4 @@
+manifests폴더 : AndroidManifest.xml 파일이 들어있다.-> 이 파일에서 어플이 사용할 권한을 지정하고 어플리케이션의 기본 정보를 지정한다,
+java폴더 : MainActivity파일이 들어있다. -> 이 파일에서 각 화면에 기능적인부분을 정의한다. 아래 layout파일과 세트임.
+layout폴더 : activity_main파일이 들어있다 -> 사용자에게 직접적으로 보이는 화면을 그린 파일이다.
+values(colors, strings, styles):자주 사용하는 값들을 미리 지정하고 앱 제작시에 불러와 사용할 수 있다.
