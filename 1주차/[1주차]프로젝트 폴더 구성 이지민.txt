@@ -1,8 +1,0 @@
-app>manifests>AndroidManifest.xml : 안드로이드의 컨트롤 타워, 안드로이드 어플리케이션을 구동하는데 필요한 설정값을 관리하는 곳
-app>java : 클래스를 관리하는 폴더, 앱이 작동하는 방식에 대해 정의하는 .java 파일들이 모두 들어있음. 앱에서 보이지 않는 기능 담당
-app>java>MainActivity.java : Activity를 어플리케이션에 띄워줌
-app>res : Resource 폴더로 UI와 관련된 파일과 디자인 리소스, 문자열 리소스를 담고있음. 앱에서 겉으로 보이는 것 담당
-app>res>Activity_main.xml : 어플리케이션 위에 실행될 화면 보여줌
-
-Gradle Scripts : 어플리케이션을 빌드 하기 위해 필요한 옵션, 라이브러리 정보 들어있음
-
