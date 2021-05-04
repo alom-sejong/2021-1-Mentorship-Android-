@@ -53,7 +53,7 @@
 | 김이나 ||||||||||
 | 김채원 ||||||||||
 | 김한슬 |:white_check_mark:|:white_check_mark:||||||||
-| 박수연 ||||||||||
+| 박수연 |:white_check_mark:|||||||||
 | 박창현 |:white_check_mark:|||||||||
 | 송수현 ||||||||||
 | 신동준 |:white_check_mark:|:white_check_mark:||||||||
