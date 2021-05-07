@@ -7,7 +7,7 @@
 ## 안드로이드 기초 멘토링
 
 ### 📚 참고 자료
-* [깃허브 Pull requests(풀리퀘) 하는법](https://chanhuiseok.github.io/posts/git-3/)
+* [깃허브 Pull requests(풀리퀘) 하는법](https://github.com/alom-sejong/Alom-Mentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
 1. **Fork** : Alom-Mentorship 저장소에서 오른쪽 Fork 버튼 클릭  
 2. **Clone** : [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)  
 3. **Commit&Push** : [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
@@ -29,8 +29,9 @@
 멘토 이예서 (카톡 이름 : 예서)  
 ### 📌 일정 
 
-* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship)
-* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship)
+* [0주차 과제: 포크, 클론 및 풀리퀘스트](https://www.github.com/alom-sejong/Alom-Mentorship/tree/main/How%20to%20pull%20request%20in%20github.pdf)
+* [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
+* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship/blob/main/2%EC%A3%BC%EC%B0%A8/default.MD)
 * [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship)
 * [4주차 과제: 자바와 객체지향](https://github.com/alom-sejong/Alom-Mentorship)
 * [5주차 과제: 안드로이드와 자바 1](https://github.com/alom-sejong/Alom-Mentorship)
@@ -41,25 +42,25 @@
 
 ### 🗓 멘토링 참여 현황
 
-| 참여자 (19) | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| ❤목표❤ |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-| 고윤서 |||||||||
-| 권영호 |||||||||
-| 김소은 |||||||||
-| 김영현 |||||||||
-| 김예주 |||||||||
-| 김이나 |||||||||
-| 김채원 |||||||||
-| 김한슬 |||||||||
-| 박수연 |||||||||
-| 박창현 |||||||||
-| 송수현 |||||||||
-| 신동준 |||||||||
-| 신애림 |||||||||
-| 안영진 |||||||||
-| 유명건 |||||||||
-| 윤주리 |||||||||
-| 이정은 |||||||||
-| 이지민 |||||||||
-| 정혜성 |||||||||
+| 참여자 (19) | 0주차 | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| ❤목표❤ |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+| 고윤서 |:white_check_mark:|||||||||
+| 권영호 ||||||||||
+| 김소은 |:white_check_mark:|:white_check_mark:||||||||
+| 김영헌 |:white_check_mark:|||||||||
+| 김예주 |:white_check_mark:|||||||||
+| 김이나 ||||||||||
+| 김채원 ||||||||||
+| 김한슬 |:white_check_mark:|:white_check_mark:||||||||
+| 박수연 |:white_check_mark:|:white_check_mark:||||||||
+| 박창현 |:white_check_mark:|:white_check_mark:||||||||
+| 송수현 ||||||||||
+| 신동준 |:white_check_mark:|:white_check_mark:||||||||
+| 신애림 ||||||||||
+| 안영진 |:white_check_mark:|:white_check_mark:||||||||
+| 유명건 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| 윤주리 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| 이정은 |:white_check_mark:|||||||||
+| 이지민 |:white_check_mark:|:white_check_mark:||||||||
+| 정혜성 ||||||||||
