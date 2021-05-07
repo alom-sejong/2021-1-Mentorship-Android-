@@ -57,7 +57,7 @@
 | 박창현 |:white_check_mark:|:white_check_mark:||||||||
 | 송수현 ||||||||||
 | 신동준 |:white_check_mark:|:white_check_mark:||||||||
-| 신애림 ||||||||||
+| 신애림 |:white_check_mark:|||||||||
 | 안영진 |:white_check_mark:|:white_check_mark:||||||||
 | 유명건 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 윤주리 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
