@@ -1,0 +1,10 @@
+LinearLayout - 기본적이면서 많이 사용되는 Layout 
+	      Layout 내의 View들을 수평 또는 수직으로 배치(기본값 = 수평)
+	      orientation으로 가로 세로 방향 설정가능
+
+gravity - button이나 text 정렬
+
+수직 등분 정렬 - height="0dp" weight="1"
+
+수평 등분 정렬 - width = "0dp" weight = "1"
+

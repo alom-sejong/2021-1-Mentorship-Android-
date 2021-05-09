@@ -1,0 +1,5 @@
+1. manifests/AndroidManifest.xml : 앱의 초기값이 들어있다. 가장 기본적인 앱의 정보가 들어있다.
+2. java : 실질적으로 코딩을 하는 부분 
+	java/androidTest : 앱테스트 코드 부분
+3. res : resource의 줄임말. 앱의 형태에 대해 담겨있는 폴더이다.
+4. Gradle Scripts : build script를 가지고 있는 부분.
