@@ -50,7 +50,7 @@
 | 김소은 |:white_check_mark:|:white_check_mark:||||||||
 | 김영헌 |:white_check_mark:|||||||||
 | 김예주 |:white_check_mark:|:white_check_mark:||||||||
-| 김이나 ||||||||||
+| 김이나 |:white_check_mark:|:white_check_mark:||||||||
 | 김채원 |:white_check_mark:|||||||||
 | 김한슬 |:white_check_mark:|:white_check_mark:||||||||
 | 박수연 |:white_check_mark:|:white_check_mark:||||||||
