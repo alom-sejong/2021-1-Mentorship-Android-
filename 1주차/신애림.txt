@@ -1,0 +1,6 @@
+res : 리소스 폴더, 겉으로 보이는 모든것들을 포함
+java: 보이지 않는 모든 기능들 담당.
+Activity_main.xml - 어플리케이션 위에 실행될 화면 보여줌
+-> code, split, design을 통해 각각 코드, 디자인 미리보기, 코드와 디자인 탭 동시 확인 가능
+MainActivity.java - Activity를 어플리케이션에 띄어줌
+
