@@ -47,7 +47,7 @@
 | ❤목표❤ |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 고윤서 |:white_check_mark:|||||||||
 | 권영호 ||||||||||
-| 김소은 |:white_check_mark:|:white_check_mark:||||||||
+| 김소은 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 김영헌 |:white_check_mark:|||||||||
 | 김예주 |:white_check_mark:|:white_check_mark:||||||||
 | 김이나 |:white_check_mark:|:white_check_mark:||||||||
