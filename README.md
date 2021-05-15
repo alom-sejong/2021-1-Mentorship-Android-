@@ -47,7 +47,7 @@
 | ❤목표❤ |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 고윤서 |:white_check_mark:|||||||||
 | 권영호 |:white_check_mark:|||||||||
-| 김소은 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| 김소은 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
 | 김영헌 |:white_check_mark:|||||||||
 | 김예주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 김이나 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
@@ -60,7 +60,7 @@
 | 신애림 |:white_check_mark:|:white_check_mark:||||||||
 | 안영진 |:white_check_mark:|:white_check_mark:||||||||
 | 유명건 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
-| 윤주리 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
+| 윤주리 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
 | 이정은 |:white_check_mark:|||||||||
 | 이지민 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 정혜성 ||||||||||
