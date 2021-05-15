@@ -1,0 +1,13 @@
+app
+  -manifests
+    -AndroidManifest : 안드로이드의 컨트롤 타워
+  -java : 클래스를 관리하는 폴더
+    -young0427.app.week1
+      -MainActivity.java : 하나의 화면
+  -res : resource 폴더로 UI와 관련된 파일과 디자인 리소스, 문자열 리소스를 담고있는 폴더입니다
+    -drawable
+    -layout
+      -activity_main.xml : 화면 레이아웃을 관리하는 파일
+    -mipmap
+    -values
+Gradle Scripts : Gradle이 간단히 말해 안드로이드 빌드를 위한 도구인데 이에 관한 파일들이다
