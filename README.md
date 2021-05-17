@@ -48,7 +48,7 @@
 | 고윤서 |:white_check_mark:|||||||||
 | 권영호 |:white_check_mark:|||||||||
 | 김소은 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
-| 김영헌 |:white_check_mark:|||||||||
+| 김영헌 |:white_check_mark:|:white_check_mark:||||||||
 | 김예주 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 김이나 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 김채원 |:white_check_mark:|:white_check_mark:||||||||
@@ -64,3 +64,4 @@
 | 이정은 |:white_check_mark:|||||||||
 | 이지민 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 정혜성 ||||||||||
+| 박재은 ||||||||||
