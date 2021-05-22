@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#E80909"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        />
+
+    <ImageView
+        android:layout_above="@id/center"
+        android:layout_centerHorizontal="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#FF9800"
+        />
+
+    <ImageView
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#F44336"
+        />
+
+    <ImageView
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#4CAF50"
+        />
+
+    <ImageView
+        android:layout_below="@id/center"
+        android:layout_centerHorizontal="true"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/purple_200"
+        />
+
+    <ImageView
+        android:layout_toLeftOf="@id/center"
+        android:layout_above="@id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@color/teal_700"
+        />
+
+    <ImageView
+        android:layout_toRightOf="@id/center"
+        android:layout_above="@id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#9C27B0"
+        />
+
+    <ImageView
+        android:layout_toLeftOf="@id/center"
+        android:layout_below="@id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#3F51B5"
+        />
+
+    <ImageView
+        android:layout_toRightOf="@id/center"
+        android:layout_below="@id/center"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="#974E2A"
+        />
+
+</RelativeLayout>
