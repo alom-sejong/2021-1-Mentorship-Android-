@@ -33,12 +33,11 @@
 * [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
 * [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship/blob/main/2%EC%A3%BC%EC%B0%A8/default.MD)
 * [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/3%EC%A3%BC%EC%B0%A8/default.MD)
-* [4주차 과제: 자바와 객체지향](https://github.com/alom-sejong/Alom-Mentorship)
+* [4주차 과제: 레이아웃 & 위젯 & 자바](https://github.com/alom-sejong/Alom-Mentorship)
 * [5주차 과제: 안드로이드와 자바 1](https://github.com/alom-sejong/Alom-Mentorship)
 * [6주차 과제: 안드로이드와 자바 2](https://github.com/alom-sejong/Alom-Mentorship)
 * [7주차 과제: 안드로이드 앱 개발 기초](https://github.com/alom-sejong/Alom-Mentorship)
-* [8주자 과제: 안드로이드 앱 개발 심화: Todo-List](https://github.com/alom-sejong/Alom-Mentorship)
-* [멘토링 수료 과제: Todo-List 완성하기](https://github.com/alom-sejong/Alom-Mentorship)
+
 
 ### 🗓 멘토링 참여 현황
 
